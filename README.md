@@ -10,4 +10,12 @@
 ### END section
 
 
+##### Main changes to README.md
+
+* My bullet point here
+
+* My Bullet point here as well
+
 ## After the last section
+
+
